@@ -1,5 +1,7 @@
 # Bob Ceulemans
 
+[![Sponsor via PayPal](assets/sponsor-paypal.svg)](https://paypal.me/BobCeulemans)
+
 I build software for financial research, including [Tickertwister Desktop](https://github.com/BobCeulemans/tickertwister-desktop).
 
 ## Support this project
