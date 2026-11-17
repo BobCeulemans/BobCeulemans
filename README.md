@@ -1,6 +1,6 @@
 # Hello world 👋
 
-I'm **Bob Ceulemans, MD**, a general surgeon based in Belgium. Serious health issues have made it impossible for me to continue practising medicine.
+I'm **Bob Ceulemans, MD**, a general surgeon based in Belgium. Serious health issues have made it impossible for me to continue practicing medicine.
 
 Programming has given me another way to put my curiosity and analytical thinking to work. As an independent developer, I combine my passion for technology with an interest in value investing.
 
