@@ -1,11 +1,19 @@
-# Bob Ceulemans
+# Hello world 👋
 
-I build software for financial research, including [Tickertwister Desktop](https://github.com/BobCeulemans/tickertwister-desktop).
+I'm **Bob Ceulemans, MD**, a general surgeon and independent developer based in Belgium. Programming gives me a way to put my curiosity and analytical thinking to work, combining a passion for technology with an interest in value investing.
 
-## Support this project
+I build apps I want to use myself — and share them so others can explore, learn and build on them.
 
-If Tickertwister is useful to you, [support Bob Ceulemans on GitHub Sponsors](https://github.com/sponsors/BobCeulemans) to help maintain it and develop future open-source projects.
+## 🔎 Meet Tickertwister
 
-Suggested support: **$5, $10 or $25**, one-time or monthly. Choose your amount and frequency on GitHub Sponsors.
+[**Tickertwister Desktop**](https://github.com/BobCeulemans/tickertwister-desktop) is my open-source financial research workspace for macOS. It brings together company analysis, valuation scenarios and your own investment research, with an interface in seven languages and optional AI interpretation.
 
-Sponsorship is entirely voluntary. The apps remain available to everyone; contributions do not purchase exclusive features, investment advice or priority support.
+The goal is simple: **ask better questions, understand the numbers and make your assumptions explicit.**
+
+Explore the project, try the app or share an idea — feedback and contributions are welcome.
+
+## ♡ Support my work
+
+If you find my work useful, [visit my GitHub Sponsors page](https://github.com/sponsors/BobCeulemans) to read my story and support ongoing development, one-time or monthly.
+
+Support is entirely optional. My open-source apps remain available to everyone, without sponsor-only features or promised services.
