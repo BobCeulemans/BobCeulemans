@@ -1,6 +1,8 @@
 # Hello world 👋
 
-I'm **Bob Ceulemans, MD**, a general surgeon and independent developer based in Belgium. Programming gives me a way to put my curiosity and analytical thinking to work, combining a passion for technology with an interest in value investing.
+I'm **Bob Ceulemans, MD**, a general surgeon based in Belgium. Serious health issues have made it impossible for me to continue practising medicine.
+
+Programming has given me another way to put my curiosity and analytical thinking to work. As an independent developer, I combine my passion for technology with an interest in value investing.
 
 I build apps I want to use myself — and share them so others can explore, learn and build on them.
 
