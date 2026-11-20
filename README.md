@@ -1,4 +1,4 @@
-## Hello world 👋
+# Hello world 👋
 
 I'm **Bob**, a general surgeon based in Belgium. Serious health issues have made it impossible for me to continue practicing medicine.
 
@@ -6,7 +6,7 @@ Programming has given me another way to put my curiosity and analytical thinking
 
 I build apps I want to use myself and share them so others can explore, learn, and build on them.
 
-## 🔎 Meet Tickertwister
+## 🔎 Check out ...
 
 [**Tickertwister Desktop**](https://github.com/BobCeulemans/tickertwister-desktop) is my open-source financial research workspace for macOS. It brings together company analysis, valuation scenarios, and your own investment research, with an interface in seven languages and optional AI interpretation.
 
